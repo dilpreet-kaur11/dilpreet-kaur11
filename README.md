@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dilpreet Kaur</h1>
-<h3 align="center">A passionate data science enthusiast and frontend developer from India</h3>
+<h3 align="center">I am passionate about learning and exploring the fields of **Cloud Computing**, **Networking**, and **Cybersecurity**.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilpreet-kaur11&label=Profile%20views&color=0e75b6&style=flat" alt="dilpreet-kaur11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dilpreetstwt" target="blank"><img src="https://img.shields.io/twitter/follow/dilpreetstwt?logo=twitter&style=for-the-badge" alt="dilpreetstwt" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++,DevOps and Java**
+- 🌱 Currently, I am focused on expanding my skills in **AWS Cloud**, **Networking**, and **IT Support**, and I'm always eager to learn new technologies and improve my abilities.
 
-- 💬 Ask me about **C++ and Java**
+- 💬 Ask me about **C++, Cloud and Networking**
 
-- 📫 How to reach me **dilpreet.codes@gmail.com**
+- 📫 How to reach me **dilpreetkaur.dev@gmail.com**
 
 - ⚡ Fun fact **I'm not lazy, i just believe in selective participation.**
 
